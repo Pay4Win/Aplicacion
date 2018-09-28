@@ -1,0 +1,28 @@
+Interfaces LoL:
+¿Se le pueden hacer cambios a la apk, o una vez hecha ya esta?
+Todas las pantallas tendran conexion entre si a traves de una barra lateral.
+Todas las pantallas tienen un enlace para que se envie una corrección o recomendacion al email asociado (crear porque e mio no anda ja ja) (esta pantalla puede mostrarse encima de la que se este como una ventana? si no, es una interfaz mas)
+¿Se puede hacer que sea unico por celular o necesito un login? Si necesito login lo puedo hacer en la interfaz que me sobra.
+
+Inicio:
+Breve descripcion del juego y presentacion. Con boton para acceder a "Más información" que sera descripcion general.
+
+Descripcion general:
+Mapas y objetivos importantes de cada uno, elos de clasificatorias.
+
+Campeones:
+Resumen de la historia de cada uno y habilidades (¿se puede poner un filtro por entrada de texto?) (consultar cantidad de interfaces maximas que se puedan hacer).
+
+Consejos de campeon o buildeo:
+¿Sistema de ascenso por likes? Esta pantalla en un principio estara vacia e ira guardando los comentarios de los usuarios
+
+Items:
+Descripcion de cada uno (¿se puede poner un filtro por entrada de texto?) (consultar cantidad de interfaces maximas que se puedan hacer).
+
+Contacto:
+ventana normal de contacto, que pida: nombre, email, y descripcion, mensaje o algo parecido. Boton de enviar o salir (que devuelve a la pantalla anterior o cierra la ventana depende como se haga).
+
+Region por servidor mostrada en un mapa:
+No se bien como hacer esta interfaz todavia (Pensaba en un mapa con los paises marcados al seleccionar una region).
+
+Esta me estaria sobrando...
